@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mrityunjay Kumar Gupta"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar/myImages.jpg"
   bio              : "My Portfolio"
   location         : "Bangalore, India"
   email            :

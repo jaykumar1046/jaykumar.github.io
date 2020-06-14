@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jaykumar1046/"
+    - label: "Kaggle"
+      icon: "fab fa-fw- fa-Kaggle"
+      url: "https://www.kaggle.com/mrityunjay1046"
 
 # Site Footer
 footer:

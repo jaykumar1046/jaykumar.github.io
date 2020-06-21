@@ -10,4 +10,4 @@ Data Science
   2. Coursera
 
 Software Testing
-  1.
+  1. Certificate from Infosys.

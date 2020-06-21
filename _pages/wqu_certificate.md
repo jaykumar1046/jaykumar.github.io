@@ -15,7 +15,7 @@ With enrollment in more than 100 countries, our MSc program in Financial Enginee
 
 My Certificates,
 
-Introduction to the Data Science module
+[Introduction to the Data Science module](https://photos.google.com/photo/AF1QipO0JQlyfnQ-JZTMT2b2T73XICpv9BU8qkUsIuNq)
 <a class="image fit" type ="application/image"><img src="https://photos.google.com/photo/AF1QipO0JQlyfnQ-JZTMT2b2T73XICpv9BU8qkUsIuNq" alt="" class= "certificate_image"></a>
 
 Data Science Module II

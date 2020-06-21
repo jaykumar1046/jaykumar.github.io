@@ -2,7 +2,7 @@
 title: "Certifications"
 permalink: /Certifications/
 header:
-  image: "~/images/certificates/certification_banner.jpg"
+  image: "/images/certificates/certification_banner.jpg"
 ---
 
 Data Science

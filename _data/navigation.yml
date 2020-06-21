@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Certifications"
     url: /Certifications/
+  -title: "wqu"
+   url: /wqu_certificate/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

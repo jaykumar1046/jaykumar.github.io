@@ -16,10 +16,10 @@ With enrollment in more than 100 countries, our MSc program in Financial Enginee
 My Certificates,
 
 Introduction to the Data Science module
-<a href="images/certificates/Certificate of Completion wordquant DS.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/images/certificates/Certificate of Completion wordquant DS.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
 
 Data Science Module II
-<a href="images/certificates/Certificate of Completion WQU Module II.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/images/certificates/Certificate of Completion WQU Module II.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
 
 Applied Data Science Module
-<a href="images/certificates/Certificate of Completion WQU Full.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/images/certificates/Certificate of Completion WQU Full.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>

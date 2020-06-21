@@ -6,7 +6,7 @@ header:
 ---
 
 Data Science
-  1. [World Quant University](/_pages/wqu_certificate.md).
+  1. [WorldQuant University](/_pages/wqu_certificate).
   2. Coursera
 
 Software Testing

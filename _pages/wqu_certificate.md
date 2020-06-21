@@ -18,6 +18,11 @@ My Certificates,
 [Introduction to the Data Science module](https://photos.app.goo.gl/Q1BAis4HZQKoYAuq5)
 <a class="image fit" type ="application/image"><img src="https://photos.google.com/photo/AF1QipO0JQlyfnQ-JZTMT2b2T73XICpv9BU8qkUsIuNq" alt="" class= "certificate_image"></a>
 
+
+
+<a href="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/view?usp=sharing"><img src="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
 Data Science Module II
 <a href="/images/certificates/Certificate of Completion WQU Module II.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
 

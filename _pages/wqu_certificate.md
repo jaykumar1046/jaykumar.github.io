@@ -22,7 +22,7 @@ My Certificates,
 
 <a href="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/view?usp=sharing"><img src="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Introduction to the Data Science module"/></a>
 
-<a class="cert"><iframe src="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/preview" width="640" height="480"></iframe></a>
+<a><iframe src="https://drive.google.com/file/d/0BxgAEV4UgdmlVlZwLTJsM1ZFSGt4ZmthYkREZkxlZVVsc2pr/preview" width="640" height="480"></iframe></a>
 
 Data Science Module II
 <a href="/images/certificates/Certificate of Completion WQU Module II.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>

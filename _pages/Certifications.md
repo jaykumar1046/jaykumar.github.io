@@ -7,7 +7,7 @@ header:
 
 Data Science
   1. World Quant University.
-  2.
+  2. Coursera
 
 Software Testing
-  1. 
+  1.

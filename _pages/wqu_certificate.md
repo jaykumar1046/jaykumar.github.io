@@ -16,7 +16,7 @@ With enrollment in more than 100 countries, our MSc program in Financial Enginee
 My Certificates,
 
 Introduction to the Data Science module
-<a href="~/images/avatar/Certificate of Completion wordquant DS_1.jpg" class="image fit" ><img src="~/images/avatar/Certificate of Completion wordquant DS_1.jpg" alt=""></a>
+<a href="https://github.com/jaykumar1046/jaykumar.github.io/blob/master/images/avatar/Certificate%20of%20Completion%20wordquant%20DS_1.jpg" class="image fit" ><img src="https://github.com/jaykumar1046/jaykumar.github.io/blob/master/images/avatar/Certificate%20of%20Completion%20wordquant%20DS_1.jpg" alt=""></a>
 
 Data Science Module II
 <a href="/images/certificates/Certificate of Completion WQU Module II.pdf" class="image fit" type="application/pdf"><img src="images/marr_pic.jpg" alt=""></a>
